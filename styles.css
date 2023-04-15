@@ -4,4 +4,24 @@
 
 body {
     background-color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+img {
+    border-radius: .5rem;
+}
+
+.blue-box {
+    background-color: hsl(212, 45%, 89%);
+    height: 16rem;
+    width: 60vw;
+    margin: 10rem auto;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: .5rem;
+    max-width: 14rem;
+    margin: auto;
+    padding: 1rem;
 }
